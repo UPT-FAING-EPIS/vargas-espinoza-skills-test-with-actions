@@ -1,16 +1,22 @@
-# Test with Actions
+<div align="center">
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+# Congratulations JeffersonVargas0!
 
-Hey JeffersonVargas0!
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+### You've successfully completed the exercise!
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## Share Your Success
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/UPT-FAING-EPIS/vargas-espinoza-skills-test-with-actions/issues/2)
+**Show off your new skills and inspire others.**
+
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/UPT-FAING-EPIS/vargas-espinoza-skills-test-with-actions/issues/2)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://skills.github.com)
+
+*There's no better way to learn than building things!*
+
+</div>
 
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
